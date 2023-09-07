@@ -1,0 +1,17 @@
+﻿  Customer.cpp
+E:\Collage Material\Second year\2nd semester\Data Structures\Project\Online Marketplace\Online Marketplace\Customer.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
+E:\Collage Material\Second year\2nd semester\Data Structures\Project\Online Marketplace\Online Marketplace\Customer.cpp(62,68): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Source.cpp
+E:\Collage Material\Second year\2nd semester\Data Structures\Project\Online Marketplace\Online Marketplace\Source.cpp(39,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\Collage Material\Second year\2nd semester\Data Structures\Project\Online Marketplace\Online Marketplace\Source.cpp(91,20): warning C4018: '<': signed/unsigned mismatch
+E:\Collage Material\Second year\2nd semester\Data Structures\Project\Online Marketplace\Online Marketplace\Source.cpp(104,20): warning C4018: '<': signed/unsigned mismatch
+E:\Collage Material\Second year\2nd semester\Data Structures\Project\Online Marketplace\Online Marketplace\Source.cpp(119,20): warning C4018: '<': signed/unsigned mismatch
+E:\Collage Material\Second year\2nd semester\Data Structures\Project\Online Marketplace\Online Marketplace\Source.cpp(287,22): warning C4018: '<': signed/unsigned mismatch
+E:\Collage Material\Second year\2nd semester\Data Structures\Project\Online Marketplace\Online Marketplace\Source.cpp(346,19): warning C4018: '<': signed/unsigned mismatch
+E:\Collage Material\Second year\2nd semester\Data Structures\Project\Online Marketplace\Online Marketplace\Source.cpp(351,23): warning C4018: '<': signed/unsigned mismatch
+E:\Collage Material\Second year\2nd semester\Data Structures\Project\Online Marketplace\Online Marketplace\Source.cpp(362,18): warning C4018: '<': signed/unsigned mismatch
+E:\Collage Material\Second year\2nd semester\Data Structures\Project\Online Marketplace\Online Marketplace\Source.cpp(381,22): warning C4018: '<': signed/unsigned mismatch
+E:\Collage Material\Second year\2nd semester\Data Structures\Project\Online Marketplace\Online Marketplace\Source.cpp(401,20): warning C4018: '<': signed/unsigned mismatch
+E:\Collage Material\Second year\2nd semester\Data Structures\Project\Online Marketplace\Online Marketplace\Source.cpp(406,24): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Online Marketplace.vcxproj -> E:\Collage Material\Second year\2nd semester\Data Structures\Project\Online Marketplace\Debug\Online Marketplace.exe
